@@ -62,7 +62,7 @@
 
 🔍 Overview: An end-to-end MLOps pipeline using DVC and FastAPI to predict water portability from quality metrics. The project features version-controlled data, reproducible workflows, and a live API for real-time predictions.
 
-🔗 Links: 📁 Repository · 📊 Demo / Case Study
+🔗 Links: [📁 Repository](#https://github.com/Dibyasha-Sahu/dvc-end-to-end-water-quality-Machine-Learning-Prediction-API-with-FastAPI.git) 
 
 🛠️ Tech Stack: `DVC ` `FastAPI` ` Machine Learning MLOps` ` Python `
 
@@ -73,7 +73,7 @@
 Automated pipeline for efficient hyperparameter tuning using **DVC**. Tracks experiments, ensures reproducibility, and systematically finds the best model configuration for peak performance.
 
 **🔗 Links:**  
-[📁 Repository](#) · [📊 Demo / Case Study](#)
+[📁 Repository](#https://github.com/Dibyasha-Sahu/DVC-Pipeline-for-Efficient-Hyperparameter-Tuning.git) ·
 
 **🛠️ Tech Stack:**  
 `DVC` `ML Experimentation` `Pipeline Automation` `Model Optimization` `Python`   
