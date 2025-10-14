@@ -59,38 +59,54 @@
 ### 🚀 Projects Showcase
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Water Quality Prediction API</h3>
-      <div align="center">
-        <img src="URL_TO_YOUR_PROJECT_IMAGE_1.png" alt="Water Quality Project Thumbnail" width="400" />
-        <p>An end-to-end MLOps pipeline to predict water portability. Features version-controlled data with DVC, reproducible workflows, and a live FastAPI for real-time predictions.</p>
-        <p>
-          <img src="https://img.shields.io/badge/DVC-7b42f6?style=for-the-badge" alt="DVC"/>
-          <img src="https://img.shields.io/badge/FastAPI-25c2a0?style=for-the-badge" alt="FastAPI"/>
-          <img src="https://img.shields.io/badge/MLOps-e5289e?style=for-the-badge" alt="MLOps"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/dvc-end-to-end-water-quality-Machine-Learning-Prediction-API-with-FastAPI.git" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Hyperparameter Tuning with DVC</h3>
-      <div align="center">
-        <img src="URL_TO_YOUR_PROJECT_IMAGE_2.png" alt="Hyperparameter Tuning Project Thumbnail" width="400" />
-        <p>An automated pipeline for efficient hyperparameter tuning using DVC. Tracks experiments, ensures reproducibility, and systematically finds the best model configuration.</p>
-        <p>
-          <img src="https://img.shields.io/badge/DVC-7b42f6?style=for-the-badge" alt="DVC"/>
-          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logoColor=black" alt="Python"/>
-          <img src="https://img.shields.io/badge/Automation-ff79c6?style=for-the-badge" alt="Automation"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/DVC-Pipeline-for-Efficient-Hyperparameter-Tuning.git" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-      </div>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Water Quality Prediction API</h3>
+      <div align="center">
+        <p>An end-to-end MLOps pipeline to predict water portability. Features version-controlled data with DVC, reproducible workflows, and a live FastAPI for real-time predictions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/End_to_End-4c8af5?style=for-the-badge" alt="End-to-End"/>
+          <img src="https://img.shields.io/badge/API_Development-34a853?style=for-the-badge" alt="API Development"/>
+          <img src="https://img.shields.io/badge/Scikit Learn-f99937?style=for-the-badge" alt="Scikit-learn"/>
+        </p>
+        <a href="https://github.com/Dibyasha-Sahu/dvc-end-to-end-water-quality-Machine-Learning-Prediction-API-with-FastAPI.git" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Hyperparameter Tuning with DVC</h3>
+      <div align="center">
+        <p>An automated pipeline for efficient hyperparameter tuning using DVC. Tracks experiments, ensures reproducibility, and systematically finds the best model configuration.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Experiment_Tracking-8a2be2?style=for-the-badge" alt="Experiment Tracking"/>
+          <img src="https://img.shields.io/badge/Model_Optimization-ffc83d?style=for-the-badge" alt="Model Optimization"/>
+          <img src="https://img.shields.io/badge/Reproducibility-00acc1?style=for-the-badge" alt="Reproducibility"/>
+        </p>
+        <a href="https://github.com/Dibyasha-Sahu/DVC-Pipeline-for-Efficient-Hyperparameter-Tuning.git" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+<tr>
+    <td width="50%">
+      <h3 align="center">Modular MLOps Pipeline</h3>
+      <div align="center">
+        <p>An end-to-end MLOps pipeline demonstrating a modular architecture, robust exception handling, and reproducible workflows with DVC.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Modular_Design-ff79c6?style=for-the-badge" alt="Modular Design"/>
+          <img src="https://img.shields.io/badge/Software_Engineering-6272a4?style=for-the-badge" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/Scalability-50fa7b?style=for-the-badge" alt="Scalability"/>
+        </p>
+        <a href="https://github.com/Dibyasha-Sahu/Modular-MLOps-Pipeline" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </div>
+    </td>
+<td width="50%">
+</td>
+  </tr>
 </table>
 
 ---
@@ -107,7 +123,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="31%" src="https://github-readme-stats.vercel.app/api?username=Dibyasha-Sahu&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Dibyasha's GitHub stats" />
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyasha-Sahu&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
-  <img width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyasha-Sahu&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api?username=Dibyasha-Sahu&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Dibyasha's GitHub stats" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyasha-Sahu&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+  <img width="31%" src="https://streak-stats.demolab.com/?user=Dibyasha-Sahu&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </p>
