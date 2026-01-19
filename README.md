@@ -33,7 +33,6 @@
       <li>⚡ Passionate about **MLOps** and building <b style="color:#ffb86c;">scalable ML workflows</b>.</li>
       <li>🚀 Committed to projects that merge **reproducibility, scalability**, and **creativity**.</li>
     </ul>
-
   </div>
 </details>
 
@@ -59,55 +58,58 @@
 ### 🚀 Projects Showcase
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Water Quality Prediction API</h3>
-      <div align="center">
-        <p>An end-to-end MLOps pipeline to predict water portability. Features version-controlled data with DVC, reproducible workflows, and a live FastAPI for real-time predictions.</p>
-        <p>
-          <img src="https://img.shields.io/badge/End_to_End-4c8af5?style=for-the-badge" alt="End-to-End"/>
-          <img src="https://img.shields.io/badge/API_Development-34a853?style=for-the-badge" alt="API Development"/>
-          <img src="https://img.shields.io/badge/Scikit Learn-f99937?style=for-the-badge" alt="Scikit-learn"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/dvc-end-to-end-water-quality-Machine-Learning-Prediction-API-with-FastAPI.git" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Hyperparameter Tuning with DVC</h3>
-      <div align="center">
-        <p>An automated pipeline for efficient hyperparameter tuning using DVC. Tracks experiments, ensures reproducibility, and systematically finds the best model configuration.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Experiment_Tracking-8a2be2?style=for-the-badge" alt="Experiment Tracking"/>
-          <img src="https://img.shields.io/badge/Model_Optimization-ffc83d?style=for-the-badge" alt="Model Optimization"/>
-          <img src="https://img.shields.io/badge/Reproducibility-00acc1?style=for-the-badge" alt="Reproducibility"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/DVC-Pipeline-for-Efficient-Hyperparameter-Tuning.git" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%">
-      <h3 align="center">Modular MLOps Pipeline</h3>
-      <div align="center">
-        <p>An end-to-end MLOps pipeline demonstrating a modular architecture, robust exception handling, and reproducible workflows with DVC.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Modular_Design-ff79c6?style=for-the-badge" alt="Modular Design"/>
-          <img src="https://img.shields.io/badge/Software_Engineering-6272a4?style=for-the-badge" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/Scalability-50fa7b?style=for-the-badge" alt="Scalability"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/Modular-MLOps-Pipeline" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
-        </a>
-      </div>
-    </td>
-<td width="50%">
-</td>
-  </tr>
-</table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Water Quality Prediction API</h3>
+      <div align="center">
+        <p>An end-to-end MLOps pipeline to predict water portability. Features version-controlled data with DVC, reproducible workflows, and a live FastAPI for real-time predictions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/End_to_End-4c8af5?style=for-the-badge" alt="End-to-End"/>
+          <img src="https://img.shields.io/badge/API_Development-34a853?style=for-the-badge" alt="API Development"/>
+          <img src="https://img.shields.io/badge/Scikit Learn-f99937?style=for-the-badge" alt="Scikit-learn"/>
+        </p>
+        <a href="https://github.com/Dibyasha-Sahu/dvc-end-to-end-water-quality-Machine-Learning-Prediction-API-with-FastAPI.git" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Hyperparameter Tuning with DVC</h3>
+      <div align="center">
+        <p>An automated pipeline for efficient hyperparameter tuning using DVC. Tracks experiments, ensures reproducibility, and systematically finds the best model configuration.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Experiment_Tracking-8a2be2?style=for-the-badge" alt="Experiment Tracking"/>
+          <img src="https://img.shields.io/badge/Model_Optimization-ffc83d?style=for-the-badge" alt="Model Optimization"/>
+          <img src="https://img.shields.io/badge/Reproducibility-00acc1?style=for-the-badge" alt="Reproducibility"/>
+        </p>
+        <a href="https://github.com/Dibyasha-Sahu/DVC-Pipeline-for-Efficient-Hyperparameter-Tuning.git" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Modular MLOps Pipeline</h3>
+      <div align="center">
+        <p>An end-to-end MLOps pipeline demonstrating a modular architecture, robust exception handling, and reproducible workflows with DVC.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Modular_Design-ff79c6?style=for-the-badge" alt="Modular Design"/>
+          <img src="https://img.shields.io/badge/Software_Engineering-6272a4?style=for-the-badge" alt="Software Engineering"/>
+          <img src="https://img.shields.io/badge/Scalability-50fa7b?style=for-the-badge" alt="Scalability"/>
+        </p>
+        <a href="https://github.com/Dibyasha-Sahu/Modular-MLOps-Pipeline" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-222?style=for-the-badge&logo=github" alt="View Repository"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Linux Basic Projects</h3>
+      <div align="center">
+        <p>A collection of beginner-friendly Linux shell scripts and DevOps utilities. Includes a simple calculator, file system scripts, random password generator, and a searchable DevOps command dictionary.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Linux_Scripts-2a2139?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Scripts"/>
+          <img src="https://img.shields.io/badge/Shell_Scripting-ff79c6?style=for-the
 
 ---
 
