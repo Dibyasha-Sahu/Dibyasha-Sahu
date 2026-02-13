@@ -1,4 +1,4 @@
-# Welcome to my Profile! I'm Dibyasha Sahu 🚀
+# Welcome to my Profile! I'm Dibyasha Sahu. 🚀
 
 <div align="center">
   <a href="https://git.io/typing-svg">
