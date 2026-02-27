@@ -136,6 +136,12 @@
 
 ### 📊 My GitHub Activity
 
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyasha-Sahu&theme=github&color=E6501B&line=C3110C&point=740A03&hide_border=true" />
+<div align="center">
+  <table style="width: 100%; display: block; overflow-x: auto; white-space: nowrap;">
+    <tr>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyasha-Sahu&theme=github&color=E6501B&line=C3110C&point=740A03&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
