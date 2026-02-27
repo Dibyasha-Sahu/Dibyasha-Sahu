@@ -136,6 +136,6 @@
 
 ### 📊 My GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyasha-Sahu&theme=github&color=E6501B&line=C3110C&point=740A03&hide_border=true"/>
-</p>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyasha-Sahu&theme=github&color=E6501B&line=C3110C&point=740A03&hide_border=true" />
+</div>
