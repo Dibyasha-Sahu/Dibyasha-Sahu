@@ -60,68 +60,28 @@
 
 ### 🚀 Projects Showcase
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Water Quality Prediction API</h3>
-      <div align="center">
-        <p>An end-to-end MLOps pipeline to predict water portability. Features version-controlled data with DVC, reproducible workflows, and a live FastAPI for real-time predictions.</p>
-        <p>
-          <img src="https://img.shields.io/badge/End_to_End-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/API_Development-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Scikit Learn-E6501B?style=for-the-badge"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/dvc-end-to-end-water-quality-Machine-Learning-Prediction-API-with-FastAPI.git">
-          <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Hyperparameter Tuning with DVC</h3>
-      <div align="center">
-        <p>An automated pipeline for efficient hyperparameter tuning using DVC. Tracks experiments, ensures reproducibility, and systematically finds the best model configuration.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Experiment_Tracking-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Model_Optimization-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Reproducibility-E6501B?style=for-the-badge"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/DVC-Pipeline-for-Efficient-Hyperparameter-Tuning.git">
-          <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Modular MLOps Pipeline</h3>
-      <div align="center">
-        <p>An end-to-end MLOps pipeline demonstrating a modular architecture, robust exception handling, and reproducible workflows with DVC.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Modular_Design-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Software_Engineering-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Scalability-E6501B?style=for-the-badge"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/Modular-MLOps-Pipeline">
-          <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Linux Basic Projects</h3>
-      <div align="center">
-        <p>A collection of beginner-friendly Linux shell scripts and DevOps utilities.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Linux_Scripts-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/Shell_Scripting-E6501B?style=for-the-badge"/>
-          <img src="https://img.shields.io/badge/DevOps_Tools-E6501B?style=for-the-badge"/>
-        </p>
-        <a href="https://github.com/Dibyasha-Sahu/Linux_Basic_Projects.git">
-          <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+⚙️ GitHub Actions CI/CD Capstone
+
+<p> <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-E6501B?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Flask-E6501B?style=for-the-badge&logo=python&logoColor=white"/> </p>
+
+A production-style CI/CD pipeline built using GitHub Actions, Docker, and Flask. The project demonstrates reusable workflows, automated testing, Docker image build & push, deployment simulation, and scheduled health checks.
+
+🔹 Key Features
+Reusable GitHub Actions Workflows
+Pull Request Validation
+Docker Build & Push
+SHA-Based Image Tagging
+Deployment Workflow
+Automated Health Check
+GitHub Environments
+
+<br>
+
+<a href="https://github.com/Dibyasha-Sahu/github-actions-capstone"> <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</div>
 
 ---
 
