@@ -62,26 +62,40 @@
 
 <div align="center">
 
-⚙️ GitHub Actions CI/CD Capstone
+## ⚙️ GitHub Actions DevSecOps Capstone
 
-<p> <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-E6501B?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Python-Flask-E6501B?style=for-the-badge&logo=python&logoColor=white"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-E6501B?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Python-E6501B?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevSecOps-Trivy-E6501B?style=for-the-badge"/>
+</p>
 
-A production-style CI/CD pipeline built using GitHub Actions, Docker, and Flask. The project demonstrates reusable workflows, automated testing, Docker image build & push, deployment simulation, and scheduled health checks.
+<p align="center">
+Built an end-to-end <b>CI/CD + DevSecOps</b> pipeline using <b>GitHub Actions</b>, <b>Docker</b>, and <b>Flask</b>. The project demonstrates reusable workflows, automated testing, Docker image build & push, vulnerability scanning with Trivy, dependency security review, deployment simulation, scheduled health checks, GitHub Secret Scanning, and Push Protection.
+</p>
 
-🔹 Key Features
-Reusable GitHub Actions Workflows
-Pull Request Validation
-Docker Build & Push
-SHA-Based Image Tagging
-Deployment Workflow
-Automated Health Check
-GitHub Environments
+### ✨ Highlights
+
+🔹 Reusable GitHub Actions Workflows
+🔹 Automated Build & Test Pipeline
+🔹 Docker Image Build & Push
+🔹 Trivy Vulnerability Scanning
+🔹 Dependency Security Review
+🔹 GitHub Secret Scanning & Push Protection
+🔹 Workflow Permissions (Least Privilege)
+🔹 Scheduled Health Checks
+🔹 Deployment Simulation using GitHub Actions
+🔹 DevSecOps Best Practices
 
 <br>
 
-<a href="https://github.com/Dibyasha-Sahu/github-actions-capstone"> <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://github.com/Dibyasha-Sahu/github-actions-capstone">
+  <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
 
 ---
 
