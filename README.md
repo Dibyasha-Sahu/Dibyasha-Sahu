@@ -60,41 +60,51 @@
 
 ### 🚀 Projects Showcase
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ## ⚙️ GitHub Actions DevSecOps Capstone
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-E6501B?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-E6501B?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-Python-E6501B?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevSecOps-Trivy-E6501B?style=for-the-badge"/>
 </p>
 
-<p align="center">
-Built an end-to-end <b>CI/CD + DevSecOps</b> pipeline using <b>GitHub Actions</b>, <b>Docker</b>, and <b>Flask</b>. The project demonstrates reusable workflows, automated testing, Docker image build & push, vulnerability scanning with Trivy, dependency security review, deployment simulation, scheduled health checks, GitHub Secret Scanning, and Push Protection.
+Built an end-to-end **CI/CD + DevSecOps** pipeline using **GitHub Actions**, **Docker**, and **Flask**. It includes reusable workflows, automated testing, Docker image build and push, Trivy vulnerability scanning, dependency review, deployment simulation, scheduled health checks, GitHub Secret Scanning, and Push Protection.
+
+<p>
+  <a href="https://github.com/Dibyasha-Sahu/Github-Actions-DevSecOps-Capstone">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-### ✨ Highlights
+</td>
 
-🔹 Reusable GitHub Actions Workflows
-🔹 Automated Build & Test Pipeline
-🔹 Docker Image Build & Push
-🔹 Trivy Vulnerability Scanning
-🔹 Dependency Security Review
-🔹 GitHub Secret Scanning & Push Protection
-🔹 Workflow Permissions (Least Privilege)
-🔹 Scheduled Health Checks
-🔹 Deployment Simulation using GitHub Actions
-🔹 DevSecOps Best Practices
+<td width="50%" valign="top">
 
-<br>
+## ☸️ Capstone: Deploy WordPress + MySQL on Kubernetes
 
-<a href="https://github.com/Dibyasha-Sahu/github-actions-capstone">
-  <img src="https://img.shields.io/badge/View_Repository-C3110C?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
 
-</div>
+Deployed a **WordPress + MySQL** application on **Kubernetes** using **kind** and Docker Desktop. It includes Namespace isolation, Secrets, ConfigMaps, MySQL StatefulSet with PVC, Headless Service, WordPress Deployment with 2 replicas, NodePort Service, probes, resource limits, HPA, Metrics Server, and self-healing.
+
+<p>
+  <a href="https://github.com/Dibyasha-Sahu/Capstone-Deploy-WordPress-MySQL-on-Kubernetes">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+  </tr>
+</table>
 
 
 ---
