@@ -2,22 +2,37 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E6501B&center=true&width=500&lines=AI-Focused+MCA+Student;MLOps+Enthusiast;Applied+AI+Explorer" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E6501B&center=true&width=650&lines=Junior+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Automating+Reliable+Deployments"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
-<p align="center">
-  🎓 MCA student specializing in <b>Artificial Intelligence</b>.<br/>
-  ⚡ Passionate about building scalable ML workflows and exploring the frontiers of <b>MLOps</b> and <b>Applied AI</b>.<br/>
-  🤝 Open to <b>internships</b>, <b>collaborations</b>, and exciting <b>open-source</b> projects.
-</p>
+<br/>
+<h2 align="center">⚙️ DevOps & Cloud Engineering</h2>
+
+<ul>
+      <li>🎓 MCA student specializing in <b>Artificial Intelligence</b>, building a career in <b>DevOps & Cloud Engineering</b>.</li>
+      <li>🛠️ Hands-on experience with <b>Linux, Git, GitHub Actions, Docker, Kubernetes, Jenkins, and AWS</b>.</li>
+      <li>🚀 Focused on building automated <b>CI/CD pipelines</b>, containerized applications, cloud infrastructure, and reliable deployment workflows.</li>
+      <li>🤝 Open to <b>DevOps Intern</b>, <b>Cloud Intern</b>, <b>Junior DevOps Engineer</b>, and entry-level <b>Site Reliability Engineer</b> opportunities.</li>
+</ul>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dibyasha-sahu-0810432a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E6501B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-E6501B?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:dibyasha27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E6501B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-E6501B?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -26,35 +41,68 @@
 ### `> About Me`
 
 <details>
-  <summary><code>Click to expand my story...</code></summary>
-  
-  <div style="background-color:#280905; padding:20px; border-radius:8px; margin-top:10px; color:#f8f8f2; border:1px solid #C3110C;">
-    <h4 style="color:#E6501B;">Who I Am:</h4>
-    <ul>
-      <li>🎓 An <b>MCA student</b> diving deep into the world of <b style="color:#E6501B;">Artificial Intelligence</b>.</li>
-      <li>⚡ Passionate about <b style="color:#E6501B;">MLOps</b> and building scalable ML workflows.</li>
-      <li>🚀 Committed to projects that merge reproducibility, scalability, and creativity.</li>
-    </ul>
+  <summary><code>Click to explore my DevOps journey...</code></summary>
+
+  <br/>
+
+  <div align="left">
+
+#### ⚙️ Who I Am
+
+* 🎓 An **MCA student** specializing in Artificial Intelligence and building a career in **DevOps & Cloud Engineering**.
+* 🐳 Hands-on with **Linux, Git, GitHub Actions, Docker, Kubernetes, and AWS**.
+* 🚀 Interested in automating builds, tests, deployments, and cloud infrastructure.
+* ☁️ Learning how to design reliable, scalable, and secure cloud-native applications.
+* 🛠️ Building projects around **CI/CD pipelines, containerization, Kubernetes deployments, and Infrastructure as Code**.
+
+#### 🎯 Current Focus
+
+```text
+CI/CD Pipelines     → GitHub Actions
+Containers          → Docker | Kubernetes
+Cloud Fundamentals  → AWS
+Automation          → Bash | Python
+```
+
+#### 💼 Open To
+
+* DevOps Internship
+* Cloud Engineering Internship
+* Junior DevOps Engineer roles
+* Entry-Level Site Reliability Engineering opportunities
+
   </div>
 </details>
 
+
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-E6501B?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-E6501B?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Numpy-E6501B?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-E6501B?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-E6501B?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-E6501B?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-E6501B?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-E6501B?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-E6501B?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-E6501B?style=for-the-badge&logo=linux&logoColor=white"/></a>
-</p>
+<details open>
+  <summary><b>⚙️ DevOps & CI/CD</b></summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Linux-E6501B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Git-E6501B?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-E6501B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-E6501B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-E6501B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </p>
+</details>
+
+<details open>
+  <summary><b>☁️ Cloud & Automation</b></summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/AWS-E6501B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Bash-E6501B?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Python-E6501B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </p>
+</details>
 
 ---
 
