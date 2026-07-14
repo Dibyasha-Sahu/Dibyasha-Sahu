@@ -67,9 +67,8 @@ Automation          → Bash | Python
 #### 💼 Open To
 
 * DevOps Internship
-* Cloud Engineering Internship
 * Junior DevOps Engineer roles
-* Entry-Level Site Reliability Engineering opportunities
+
 
   </div>
 </details>
