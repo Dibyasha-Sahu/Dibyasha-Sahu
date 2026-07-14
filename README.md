@@ -64,11 +64,6 @@ Cloud Fundamentals  → AWS
 Automation          → Bash | Python
 ```
 
-#### 💼 Open To
-
-* DevOps Internship
-* Junior DevOps Engineer roles
-
 
   </div>
 </details>
