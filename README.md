@@ -84,6 +84,8 @@ Automation          → Bash | Python
     <img src="https://img.shields.io/badge/GitHub_Actions-E6501B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
     <img src="https://img.shields.io/badge/Docker-E6501B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Kubernetes-E6501B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Helm-E6501B?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+    <img src="https://img.shields.io/badge/Trivy-E6501B?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy"/>
   </p>
 </details>
 
@@ -97,6 +99,7 @@ Automation          → Bash | Python
     <img src="https://img.shields.io/badge/Python-E6501B?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </p>
 </details>
+
 
 ---
 
